@@ -7,7 +7,7 @@ This app provides the features and function of many small apps , this app can sh
 ![image](https://user-images.githubusercontent.com/66934832/133469038-d53ff8d6-361b-42eb-9ac6-9bab032e2e60.png)
 
 ......
-..
+.
 
 
 
